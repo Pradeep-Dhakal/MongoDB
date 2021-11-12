@@ -1,0 +1,38 @@
+point to remember 
+database: database 
+collection: Table 
+document: row 
+fields: comulm
+
+
+
+/// .........database related command ........
+
+1) 
+show dbs // it will show all of the database 
+
+
+2) s
+use (your databse name0)  // create new database 
+
+3)
+
+
+db 	// view current databse(Currently working database)
+
+4)
+db.dropDatabase() // to delete database 
+
+
+
+///// collection (Table)  ralated command 
+
+  
+
+1)
+show collecetions // this command will show all of the collection availabel in Your database 
+
+2) 
+db.createCollection(Your collection name)	// create new collection (Table) 
+
+3) 
